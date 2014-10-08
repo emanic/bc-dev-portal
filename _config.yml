@@ -3,8 +3,8 @@
 # Site settings
 title: Developer Portal
 description: "Where developers learn to develop against our API."
-baseurl: "/bc-dev-portal/" #important: start with /
-url: "http://bc-tech-writer-1.github.io"
+baseurl: "/bc-dev-portal" #important: start with /
+url: "http://bc-tech-writer-1.github.io/bc-dev-portal"
 
 # Build settings
 markdown: kramdown
