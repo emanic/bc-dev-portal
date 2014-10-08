@@ -1,2 +1,2 @@
-bc-dev-portal
+Developer Portal
 =============
